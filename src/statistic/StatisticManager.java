@@ -1,7 +1,7 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic;
+package statistic;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.event.Event;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.event.EventType;
+import statistic.event.Event;
+import statistic.event.EventType;
 
 import java.util.*;
 import java.util.stream.Collectors;

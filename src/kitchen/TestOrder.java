@@ -1,6 +1,4 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.kitchen;
-
-import com.javarush.task.task27.task2712_RESTARAUNT.Tablet;
+package kitchen;
 
 import java.io.IOException;
 import java.util.ArrayList;

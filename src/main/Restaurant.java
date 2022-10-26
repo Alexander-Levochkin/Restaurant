@@ -1,8 +1,10 @@
-package other;
+package main;
 
 import kitchen.Order;
 import kitchen.stuff.Cook;
 import kitchen.stuff.Waiter;
+import kitchen.RandomOrderGeneratorTask;
+import kitchen.Tablet;
 import statistic.DirectorTablet;
 
 import java.util.ArrayList;
@@ -24,7 +26,7 @@ public class Restaurant extends Thread {
 
         while (!ORDER_QUEUE.isEmpty() || !FINISHED_ORDER_QUEUE.isEmpty()) {
             try {
-                Thread.sleep(1000);
+                Thread.sleep(2000);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }

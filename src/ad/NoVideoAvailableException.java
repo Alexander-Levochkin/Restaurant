@@ -1,4 +1,4 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.ad;
+package ad;
 
 public class NoVideoAvailableException extends Error {
 }

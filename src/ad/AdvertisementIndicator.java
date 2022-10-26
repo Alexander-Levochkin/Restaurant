@@ -1,8 +1,8 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.ad;
+package ad;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.ConsoleHelper;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.StatisticManager;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.event.VideoSelectedEvent;
+import main.ConsoleHelper;
+import statistic.StatisticManager;
+import statistic.event.VideoSelectedEvent;
 
 import java.util.ArrayList;
 import java.util.List;

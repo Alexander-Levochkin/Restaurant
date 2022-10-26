@@ -1,6 +1,6 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.event;
+package statistic.event;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.kitchen.Order;
+import kitchen.Order;
 
 public class NoAvailableVideoEvent extends Event {
     public NoAvailableVideoEvent(Order order) {

@@ -1,4 +1,4 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.printer;
+package statistic.printer;
 
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;

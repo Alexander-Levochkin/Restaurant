@@ -1,9 +1,11 @@
-package other;
+package kitchen;
 
 import ad.AdvertisementIndicator;
 import ad.NoVideoAvailableException;
 import kitchen.Order;
 import kitchen.TestOrder;
+import main.ConsoleHelper;
+import main.Restaurant;
 import statistic.StatisticManager;
 import statistic.event.NoAvailableVideoEvent;
 

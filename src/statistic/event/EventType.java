@@ -1,4 +1,4 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.event;
+package statistic.event;
 
 public enum EventType {
     COOKED_ORDER,

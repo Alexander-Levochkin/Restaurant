@@ -1,7 +1,7 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.printer;
+package statistic.printer;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.ConsoleHelper;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.statisticTypes.AdvertisementProfit;
+import main.ConsoleHelper;
+import statistic.statisticTypes.AdvertisementProfit;
 
 import java.util.Locale;
 

@@ -1,8 +1,8 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic;
+package statistic;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.printer.*;
+import statistic.printer.*;
 
-import java.util.*;
+import java.util.List;
 
 public class DirectorTablet {
     private static final DirectorTablet instance = new DirectorTablet();

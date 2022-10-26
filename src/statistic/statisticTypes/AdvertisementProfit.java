@@ -1,12 +1,11 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.statisticTypes;
+package statistic.statisticTypes;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.StatisticManager;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.event.Event;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.event.EventType;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.event.VideoSelectedEvent;
+import statistic.StatisticManager;
+import statistic.event.Event;
+import statistic.event.EventType;
+import statistic.event.VideoSelectedEvent;
 
 import java.time.LocalDate;
-import java.util.Date;
 import java.util.Map;
 import java.util.TreeMap;
 

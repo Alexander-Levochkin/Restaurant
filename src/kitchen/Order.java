@@ -1,8 +1,7 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.kitchen;
+package kitchen;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.ConsoleHelper;
-import com.javarush.task.task27.task2712_RESTARAUNT.Tablet;
-import com.javarush.task.task27.task2712_RESTARAUNT.kitchen.stuff.Cook;
+import main.ConsoleHelper;
+import kitchen.stuff.Cook;
 
 import java.io.IOException;
 import java.util.List;

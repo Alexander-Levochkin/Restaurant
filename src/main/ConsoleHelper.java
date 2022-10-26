@@ -1,4 +1,4 @@
-package other;
+package main;
 
 import ad.Advertisement;
 import kitchen.Dish;

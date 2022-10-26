@@ -1,8 +1,8 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.printer;
+package statistic.printer;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.ConsoleHelper;
-import com.javarush.task.task27.task2712_RESTARAUNT.ad.Advertisement;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.statisticTypes.Advertisements;
+import main.ConsoleHelper;
+import ad.Advertisement;
+import statistic.statisticTypes.Advertisements;
 
 import java.util.List;
 

@@ -1,9 +1,9 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.kitchen.stuff;
+package kitchen.stuff;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.ConsoleHelper;
-import com.javarush.task.task27.task2712_RESTARAUNT.kitchen.Order;
+import main.ConsoleHelper;
+import kitchen.Order;
 
-import static com.javarush.task.task27.task2712_RESTARAUNT.Restaurant.FINISHED_ORDER_QUEUE;
+import static main.Restaurant.FINISHED_ORDER_QUEUE;
 
 public class Waiter extends Stuff implements Runnable {
     public Waiter(String name) {

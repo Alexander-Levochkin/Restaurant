@@ -1,4 +1,4 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.kitchen.stuff;
+package kitchen.stuff;
 
 public abstract class Stuff implements Runnable {
     private final String name;

@@ -1,7 +1,7 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.statisticTypes;
+package statistic.statisticTypes;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.ad.Advertisement;
-import com.javarush.task.task27.task2712_RESTARAUNT.ad.AdvertisementIndicator;
+import ad.Advertisement;
+import ad.AdvertisementIndicator;
 
 import java.util.ArrayList;
 import java.util.List;

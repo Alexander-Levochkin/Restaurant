@@ -1,4 +1,4 @@
-package other;
+package kitchen;
 
 import java.util.List;
 

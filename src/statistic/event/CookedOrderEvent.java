@@ -1,8 +1,8 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.event;
+package statistic.event;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.kitchen.stuff.Cook;
-import com.javarush.task.task27.task2712_RESTARAUNT.kitchen.Dish;
-import com.javarush.task.task27.task2712_RESTARAUNT.kitchen.Order;
+import kitchen.Dish;
+import kitchen.Order;
+import kitchen.stuff.Cook;
 
 import java.util.List;
 

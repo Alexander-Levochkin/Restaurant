@@ -1,6 +1,6 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.statistic.event;
+package statistic.event;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.ad.Advertisement;
+import ad.Advertisement;
 
 import java.util.List;
 

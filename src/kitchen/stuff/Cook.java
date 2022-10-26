@@ -1,12 +1,12 @@
-package com.javarush.task.task27.task2712_RESTARAUNT.kitchen.stuff;
+package kitchen.stuff;
 
-import com.javarush.task.task27.task2712_RESTARAUNT.ConsoleHelper;
-import com.javarush.task.task27.task2712_RESTARAUNT.kitchen.Order;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.StatisticManager;
-import com.javarush.task.task27.task2712_RESTARAUNT.statistic.event.CookedOrderEvent;
+import main.ConsoleHelper;
+import kitchen.Order;
+import statistic.StatisticManager;
+import statistic.event.CookedOrderEvent;
 
-import static com.javarush.task.task27.task2712_RESTARAUNT.Restaurant.FINISHED_ORDER_QUEUE;
-import static com.javarush.task.task27.task2712_RESTARAUNT.Restaurant.ORDER_QUEUE;
+import static main.Restaurant.FINISHED_ORDER_QUEUE;
+import static main.Restaurant.ORDER_QUEUE;
 
 public class Cook extends Stuff {
     public Cook(String name) {
