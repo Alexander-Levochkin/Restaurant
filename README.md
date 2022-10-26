@@ -6,3 +6,5 @@ Uses:
 2) Multithreading to keep the program and its components working until the user decides to close it
 3) SOLID principles
 4) Inheritance
+
+*This project was originally developed for JavaRush
